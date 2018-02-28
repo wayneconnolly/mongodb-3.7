@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 MAINTAINER Wayne Connolly <wayne@wayneconnolly.com>
 
 ENV MONGO_MAJOR 3.7
