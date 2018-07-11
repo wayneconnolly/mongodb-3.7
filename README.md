@@ -1,5 +1,5 @@
 # mongodb-3.7
-A docker mongodb version 3.7 with user, password and engine options.
+A docker mongodb version 3.7 with user, password and engine options on Ubuntu 16.04.
 
 Usage
 -----
